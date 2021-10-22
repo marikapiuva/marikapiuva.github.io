@@ -1,4 +1,8 @@
 html {
-    /* background-image: url(autumn-5569445.png); */
+    
     background-color: beige;
+}
+
+body {
+    background-image: url(autumn-5569445.png);
 }
